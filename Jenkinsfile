@@ -29,3 +29,5 @@ node {
         }
     }
 }
+
+// jenkins secret 111d54b55e08c618d3310fd752f8aedb6a
